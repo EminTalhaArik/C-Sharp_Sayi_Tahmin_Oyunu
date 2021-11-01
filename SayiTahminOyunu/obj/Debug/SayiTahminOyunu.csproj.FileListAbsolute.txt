@@ -1,0 +1,10 @@
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Form1.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Properties.Resources.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
