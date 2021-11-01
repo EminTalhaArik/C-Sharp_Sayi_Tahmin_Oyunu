@@ -16,5 +16,10 @@ namespace SayiTahminOyunu
         {
             InitializeComponent();
         }
+
+        private void btn_tahmin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
